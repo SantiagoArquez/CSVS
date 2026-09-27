@@ -1,0 +1,7 @@
+REPORTE DE EMPLEOS Y SALARIOS
+------------------------------
+Total registros: 250000
+Salario total: 3.6429520131E10
+Salario promedio: 145718.080524
+Salario maximo: 333046.0
+Salario minimo: 31867.0
